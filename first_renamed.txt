@@ -1,1 +1,2 @@
 This is the first line in local repo
+ This change is made by github itself and then commit it
